@@ -1,6 +1,6 @@
-#Hello, I'm Chuanyu Leng
+# Hello, I'm Chuanyu Leng
 
-##I'm looking for opportunities in Software Engineering and Web development.
+## I'm looking for opportunities in Software Engineering and Web development.
 
 * :mailbox_with_mail: [Email](lengchuanyu@outlook.com)
 * :computer: [LinkiedIn](https://www.linkedin.com/in/chuanyuleng/)
